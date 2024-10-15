@@ -65,10 +65,10 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 
 ## Contact
 
-For any questions or support, please email [your-email@example.com](ahmet.sulu1993@gmail.com)
+For any questions or support, please email (ahmet.sulu1993@gmail.com)
 
     
